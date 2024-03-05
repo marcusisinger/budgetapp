@@ -40,9 +40,9 @@ features                                  :
     description                           : Med en budget för hushållet får du en bra överblick var pengarna tar vägen varje månad
     fontawesome_icon_name                 : chart-pie
     
-  - title                                 : Maximera föräldrapenningen
-    description                           : Räkna enkelt ut hur mycket hushållet får ut varje månad för att kunna dryga ut er ledighet
-    fontawesome_icon_name                 : wallet
+  - title                                 : Råd
+    description                           : Få svar på om din budget är rimlig
+    fontawesome_icon_name                 : comment-dollar
 
   - title                                 : Skapa flera budgetar
     description                           : Stora projekt kan behöva sin egen budget, som ett bröllop tex.
