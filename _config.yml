@@ -36,21 +36,21 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Slipp manuella uträkningar och tabeller
-    description                           : Appen gör anrop till öppna API:er så att du slipper hålla reda på regelverken
-    fontawesome_icon_name                 : magic
+  - title                                 : Ta kontroll över din ekonomi
+    description                           : Med en budget för hushållet får du en bra överblick var pengarna tar vägen varje månad
+    fontawesome_icon_name                 : chart-pie
     
   - title                                 : Maximera föräldrapenningen
     description                           : Räkna enkelt ut hur mycket hushållet får ut varje månad för att kunna dryga ut er ledighet
     fontawesome_icon_name                 : wallet
 
-  - title                                 : Skatte-beräkning
-    description                           : Räkna på nettolöner och kolla vad en löneökning innebär för hushållets ekonomi
-    fontawesome_icon_name                 : funnel-dollar
+  - title                                 : Skapa flera budgetar
+    description                           : Stora projekt kan behöva sin egen budget, som ett bröllop tex.
+    fontawesome_icon_name                 : diamond
 
-  - title                                 : Dela lika
-    description                           : Få koll på er ekonomi i olika konstellationer så att ni kan fördela dagarna som ni vill
-    fontawesome_icon_name                 : balance-scale
+  - title                                 : Lägg undan 10%
+    description                           : Tänk på att även göra plats för besparingar, gärna minst 10% av hushållets inkomster
+    fontawesome_icon_name                 : piggy-bank
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
