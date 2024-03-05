@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Skapa flera budgetar
     description                           : Stora projekt kan behöva sin egen budget, som ett bröllop tex.
-    fontawesome_icon_name                 : diamond
+    fontawesome_icon_name                 : gem
 
   - title                                 : Lägg undan 10%
     description                           : Tänk på att även göra plats för besparingar, gärna minst 10% av hushållets inkomster
