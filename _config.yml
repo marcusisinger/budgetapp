@@ -40,8 +40,8 @@ features                                  :
     description                           : Med en budget för hushållet får du en bra överblick var pengarna tar vägen varje månad
     fontawesome_icon_name                 : chart-pie
     
-  - title                                 : Råd
-    description                           : Få svar på om din budget är rimlig
+  - title                                 : Rådgivning
+    description                           : Appen ger dig små kommentarer om din budget börjar se stram ut
     fontawesome_icon_name                 : comment-dollar
 
   - title                                 : Skapa flera budgetar
@@ -52,11 +52,13 @@ features                                  :
     description                           : Tänk på att även göra plats för besparingar, gärna minst 10% av hushållets inkomster
     fontawesome_icon_name                 : piggy-bank
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Inga dolda kostnader
+    description                           : Ingen reklam, in-app köp eller abonnemang. Du äger appen för samma kostnad som en burk läsk.
+    fontawesome_icon_name                 : file-signature
 
-
+  - title                                 : SwiftUI
+    description                           : Utvecklad med SwiftUI, stödjer iPhone, iPad och Mac med M1 och uppåt.
+    fontawesome_icon_name                 : swift
 
 # Theme Settings
 topbar_color                              : "#000000"
